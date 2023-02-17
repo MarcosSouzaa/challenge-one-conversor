@@ -3,15 +3,18 @@
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/MarcosSouzaa/challenge-one-conversor/commit/82d82f1ea1e305b183b499a25cf86a82661cd1b9) 
 
 # Sobre o projeto
-criação de um conversor de moeda utilizando a linguagem Java. As características são as seguintes:
+Este Projeto faz parte do Desafio do Projeto Alura/Oracle denominado ONE
 
-O conversor de moeda deverá:
+## Este Projeto está no INÍCIO
+Será criado um conversor de moeda utilizando a linguagem Java. As características são as seguintes:
+
+ ## O conversor de moeda deverá:
 - Converter de Reais a Dólar
 - Converter de Reais a Euro
 - Converter de Reais a Libras Esterlinas
 - Converter de Reais a Peso argentino
 - Converter de Reais a Peso Chileno 
-- 
+
 # Tecnologias utilizadas
 ## Back end
 - Java

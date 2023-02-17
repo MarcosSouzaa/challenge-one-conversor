@@ -3,7 +3,7 @@
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/MarcosSouzaa/challenge-one-conversor/commit/82d82f1ea1e305b183b499a25cf86a82661cd1b9) 
 
 # Sobre o projeto
-Este Projeto faz parte do Desafio do Projeto Alura/Oracle denominado ONE
+Desafio da linguagem java durante o aprendizado ministrado pela escola Alura e Oracle durante esse projeto denominado ONE.
 
 ## Este Projeto está no INÍCIO
 Será criado um conversor de moeda utilizando a linguagem Java. As características são as seguintes:
